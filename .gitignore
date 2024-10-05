@@ -4,3 +4,6 @@ myenv/
 __pycache__/
 *.pyc
 .vscode/
+.env
+secret.py
+
